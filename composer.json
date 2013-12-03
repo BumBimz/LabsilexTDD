@@ -1,0 +1,7 @@
+{
+"require": {
+         "phpunit/phpunit": "3.7.28",
+         "silex/silex":"~1.1",
+         "symfony/browser-kit":">=2.3,<2.4-dev"
+}
+}
